@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[new blog with attachments]]></title>
+    <url>%2F2018%2F08%2F24%2Fnew-blog-with-attachments%2F</url>
+    <content type="text"><![CDATA[头像]]></content>
+      <tags>
+        <tag>ml</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[The test blog of hexo]]></title>
     <url>%2F2018%2F08%2F23%2FThe-test-blog-of-hexo%2F</url>
     <content type="text"><![CDATA[Welcome to my blog home! first Thank you secondtest python -m install cd hihisdsd8/24/2018 5:55:24 PM]]></content>
